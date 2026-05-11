@@ -80,7 +80,7 @@ The dataset contains:
 ## Step 1: Clone Repository
 
  
-git clone https://github.com/yourusername/student_performance_prediction.git
+git clone https://github.com/nannapravalika/student_performance_prediction.git
  
 
 ## Step 2: Move to Project Folder
